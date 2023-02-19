@@ -4,6 +4,7 @@ Write Essays Like A Professor Using ChatGPT and make them undetectable to AI sca
 In this example we asked ChatGPT to: Write a short interpretive essay on a short story using a primary source.
 
 Tools:
+https://chat.openai.com/chat
 
 https://rytr.me/
 
