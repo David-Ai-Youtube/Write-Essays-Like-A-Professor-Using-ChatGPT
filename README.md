@@ -12,3 +12,6 @@ https://rytr.me/
 https://writer.com/ai-content-detector/
 
 https://quillbot.com/
+
+Watch the video:
+https://www.youtube.com/watch?v=GBadFN124xs&ab_channel=DavidAi
